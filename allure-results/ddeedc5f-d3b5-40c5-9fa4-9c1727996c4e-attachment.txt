@@ -1,0 +1,2 @@
+clicking "OK" to Are you sure you want to clear your cart?
+items in cart: null
