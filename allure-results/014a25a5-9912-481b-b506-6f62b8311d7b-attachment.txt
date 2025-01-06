@@ -1,0 +1,7 @@
+Page Title is : Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 7792,
+  [Symbol(trigger_async_id_symbol)]: 1185,
+  [Symbol(kResourceStore)]: undefined
+}
+Page URL is : https://www.hollandandbarrett.com/
